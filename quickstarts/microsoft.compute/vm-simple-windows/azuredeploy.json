@@ -106,7 +106,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "simple-vm",
+      "defaultValue": "jaroARM-vm",
       "metadata": {
         "description": "Name of the virtual machine."
       }
