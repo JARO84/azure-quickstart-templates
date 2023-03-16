@@ -4,7 +4,7 @@
     "parameters": {
         "vmName": {
             "type": "string",
-            "defaultValue": "simpleWinVS",
+            "defaultValue": "VM2",
             "metadata": {
                 "description": "The name of you Virtual Machine."
             }
